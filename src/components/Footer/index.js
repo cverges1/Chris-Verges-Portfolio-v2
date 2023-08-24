@@ -3,8 +3,7 @@ import "./style.css";
 
 const Footer = () => {
   return (
-    <footer className="d-flex align-items-center">
-      <div>
+    <footer className="d-flex align-items-center ">
     <a className="col-4" href="https://github.com/cverges1">
         Github
       </a>
@@ -17,7 +16,6 @@ const Footer = () => {
       <a className="col-4" href="https://www.instagram.com/chris_verges/?hl=en">
         Instagram
       </a>
-      </div>
     </footer>
   );
 };

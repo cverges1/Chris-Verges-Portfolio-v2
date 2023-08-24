@@ -17,21 +17,19 @@ const Contact = () => {
 
 	const handleSubmit = (e) => {
 		e.preventDefault();
-		console.log(formState);
 		emailjs
 			.sendForm(
-				'service_wyb3pui',
-				'template_of35ofi',
+				'service_qurc38s',
+				'template_qdwzx6d',
 				form.current,
-				'ZJjMPWK3_lZ_gUpKQ'
+				'lD9pNTmTHerIg5bws'
 			)
 			.then(
 				(result) => {
-					console.log(result.text);
-					setBtnText('Message Sent!');
+					setBtnText('Message Sent to Chris!');
 					setTimeout(() => {
 						window.location.reload();
-					}, 3000);
+					}, 1500);
 				},
 				(error) => {
 					console.log(error.text);
@@ -50,7 +48,7 @@ const Contact = () => {
 					type="text"
 					name="name"
 					className="form-control"
-					placeholder="Jane Doe"
+					placeholder="Your Name"
 					defaultValue={formState.name}
 					onChange={handleChange}
 				/>
@@ -63,7 +61,7 @@ const Contact = () => {
 					type="email"
 					name="email"
 					className="form-control"
-					placeholder="jane@doe.com"
+					placeholder="youremail@email.com"
 					defaultValue={formState.email}
 					onChange={handleChange}
 				/>
