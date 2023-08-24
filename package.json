@@ -1,8 +1,7 @@
 {
-  "name": "cverges-portfolio-v1.0",
+  "name": "cverges-portfolio-v2",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://cverges1.github.io/cverges-portfolio",
+  "homepage": "https://cverges1.github.io/Chris-Verges-Portfolio-v2",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",

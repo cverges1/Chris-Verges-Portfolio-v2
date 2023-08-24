@@ -18,7 +18,7 @@
   
   ## Usage
   
-  To use this application, visit: and navigate to "About", "Portfolio", "Contact" or "Resume" for more detailed information.
+  To use this application, visit: https://cverges1.github.io/Chris-Verges-Portfolio-v2/ and navigate to "About", "Portfolio", "Contact" or "Resume" for more detailed information.
   
   ## Credits
   
