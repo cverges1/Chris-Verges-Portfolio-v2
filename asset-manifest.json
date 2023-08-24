@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/cverges-portfolio/static/css/main.8f8cb3f7.css",
+    "main.js": "/cverges-portfolio/static/js/main.da63fd22.js",
+    "static/media/CMS.jpg": "/cverges-portfolio/static/media/CMS.97e834378bd4c1df81a4.jpg",
+    "static/media/horiseon.png": "/cverges-portfolio/static/media/horiseon.42d5aee864bdd364ae60.png",
+    "static/media/ecommerce.jpg": "/cverges-portfolio/static/media/ecommerce.339953ce6c44e1f75343.jpg",
+    "static/media/city-capers.png": "/cverges-portfolio/static/media/city-capers.59b89934e1ad9d243c05.png",
+    "static/media/regex.jpg": "/cverges-portfolio/static/media/regex.c564b394bc722fdfbfd2.jpg",
+    "static/media/social-network.jpg": "/cverges-portfolio/static/media/social-network.33127faccf0d7cb6f4b5.jpg",
+    "static/media/updated-main.png": "/cverges-portfolio/static/media/updated-main.100d6e64598398937e56.png",
+    "static/media/weavers-needle.png": "/cverges-portfolio/static/media/weavers-needle.07fc253a4ec8fb9ed701.png",
+    "static/media/Myself.jpg": "/cverges-portfolio/static/media/Myself.28417b05aa7e6334ecc6.jpg",
+    "static/media/weather-app.png": "/cverges-portfolio/static/media/weather-app.3fb6516395af95c2053d.png",
+    "static/media/README.jpg": "/cverges-portfolio/static/media/README.13b90f1759492830453b.jpg",
+    "static/media/tech-blog.png": "/cverges-portfolio/static/media/tech-blog.784b445bcb37256568f4.png",
+    "static/media/logo.jpg": "/cverges-portfolio/static/media/logo.fc235de3d028b53b0d75.jpg",
+    "static/media/prework.png": "/cverges-portfolio/static/media/prework.d519fc3f6b8125713b64.png",
+    "static/media/timed-coding-quiz.png": "/cverges-portfolio/static/media/timed-coding-quiz.45b781c3cf8863da2735.png",
+    "static/media/express-note.png": "/cverges-portfolio/static/media/express-note.0cb3227de85fc9b29ecc.png",
+    "static/media/password-generator.png": "/cverges-portfolio/static/media/password-generator.51201b77a9e2c7e26df9.png",
+    "static/media/work-day.png": "/cverges-portfolio/static/media/work-day.f40101b876a89ee56403.png",
+    "index.html": "/cverges-portfolio/index.html",
+    "main.8f8cb3f7.css.map": "/cverges-portfolio/static/css/main.8f8cb3f7.css.map",
+    "main.da63fd22.js.map": "/cverges-portfolio/static/js/main.da63fd22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f8cb3f7.css",
+    "static/js/main.da63fd22.js"
+  ]
+}
