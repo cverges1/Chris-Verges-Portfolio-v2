@@ -1,8 +1,25 @@
 import React from "react";
-import './style.css';
+import "./style.css";
 
 const Footer = () => {
-    return <footer id="footer">Footer</footer>;
+  return (
+    <footer className="d-flex align-items-center">
+      <div>
+    <a className="col-4" href="https://github.com/cverges1">
+        Github
+      </a>
+      <a
+        className="col-4"
+        href="https://www.linkedin.com/in/chris-verges-78a302118/"
+      >
+        LinkedIn
+      </a>
+      <a className="col-4" href="https://www.instagram.com/chris_verges/?hl=en">
+        Instagram
+      </a>
+      </div>
+    </footer>
+  );
 };
 
 export default Footer;

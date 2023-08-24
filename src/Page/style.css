@@ -1,4 +1,44 @@
 a {
     text-decoration: none;
-    color: white
+    color: rgb(215, 215, 215);
   }
+
+  img {
+    max-height: 400px;
+  }
+
+  .projects {
+    border: solid black 3px;
+    width: 100%;
+    background-color: rgb(74, 73, 70);
+    margin: 5px;
+  }
+
+  .projects-inner {
+    background-color: rgb(155, 153, 147);
+    border: solid black 3px;
+    box-shadow: 10px 10px 5px rgb(46, 46, 46);
+    margin-bottom: 20px;
+  }
+
+  .carousel-inner {
+    padding: 5px;
+    max-height: 600px;
+    max-width: 600px;   
+  }
+
+  .about {
+    padding: 15px;
+  }
+
+  .skills .list-group-item {
+    background-color: rgb(74, 73, 70);
+    color: rgb(215, 215, 215);
+  }
+
+  #me {
+    box-shadow: 10px 10px 5px rgb(46, 46, 46);
+    margin-right: 23px;
+  }
+
+  

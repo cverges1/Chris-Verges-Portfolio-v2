@@ -3,10 +3,10 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Page from './Page';
 
-const pages = ['about', 'portfolio', 'contact', 'resume']
+const pages = ['About', 'Portfolio', 'Contact', 'Resume']
 
 function App() {
-  const [currentPage, setCurrentPage] = useState('about');
+  const [currentPage, setCurrentPage] = useState('About');
   return (
     <div className="wrapper">
       <Header 
@@ -15,7 +15,7 @@ function App() {
         setCurrentPage={setCurrentPage}
       />
       <main>
-        <Page />
+        <Page currentPage={currentPage} />
       </main>
       <Footer />
     </div>
