@@ -56,6 +56,26 @@ const Group = () => {
               </a>
             </section>
           </div>
+          <div className="carousel-item">
+            <section className="box">
+              <h3 className="text-center">Happy Tails Pet Supply v2</h3>
+              <div className="d-flex justify-content-center">
+                <img
+                  src={happyTails}
+                  alt="screenshot of a e-commerce application called Happy Tails Pet Supply"
+                  className="img-fluid rounded"
+                />
+              </div>
+              <p>
+                This project is an example ecommerce website for pet supplies.
+                It is refactored code from our teams previous project using React and GraphQL.
+              </p>
+              <a href="https://morning-mesa-14358-6466ec7ce729.herokuapp.com/">
+                A Pet Supply Shop so you can get what you need for you four
+                legged friend with ease
+              </a>
+            </section>
+          </div>
         </div>
         <button
           className="carousel-control-prev"
